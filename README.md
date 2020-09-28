@@ -4,18 +4,18 @@
 
 🎓 I study Computer Science @ UFBA
 
-⏹️ I'm currently working as Android/Backend developer @ [Cubos Tecnologia](https://cubos.io) and as Back-end Instructor @ [Cubos Academy](https://cubos.academy)
+⏹️ I'm currently working as Elixir/Python backend developer @ [Solfácil](https://landing.solfacil.com.br/) and as Back-end Instructor @ [Cubos Academy](https://cubos.academy)
 
 🔎 I'm too curious about too many things and love teaching (that also means I love dinosaurs, math, and history in general)
 
 ✒️ I like to spend my spare time reading, cooking and writing poetry (I also draw, but that's a little bit infrequent right now);
 
-📚 Reading: Do Androids Dream of Electric Sheep? - Phillip K. Dick
+📚 Reading: Ubik - Phillip K. Dick
 
 ## I've worked with... 🔧
 
 - ![Android-SDK](https://img.shields.io/static/v1?label=&message=Android-SDK&color=brightgreen) ![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=blue) ![JUnit 4](https://img.shields.io/static/v1?label=&message=JUnit-4&color=lightgrey) ![MockK](https://img.shields.io/static/v1?label=&message=MockK&color=blueviolet) ![Mockito](https://img.shields.io/static/v1?label=&message=Mockito&color=yellowgreen) ![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=9cf) ![MVP](https://img.shields.io/static/v1?label=&message=MVP&color=red) ![Clean-Architecture](https://img.shields.io/static/v1?label=&message=Clean-Architecture&color=ff69b4) ![Room](https://img.shields.io/static/v1?label=&message=Room&color=green) **as Android Developer**
-- ![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=blue) ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellowgreen) ![.NET-Core](https://img.shields.io/static/v1?label=&message=.NET-Core&color=brightgreen) ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=9cf) ![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=red) ![Koa](https://img.shields.io/static/v1?label=&message=Koa&color=Koa) ![Express](https://img.shields.io/static/v1?label=&message=Express&color=green) ![GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=blueviolet) ![Apollo-Server](https://img.shields.io/static/v1?label=&message=Apollo-Server&color=ff69b4), **as Backend Developer**
+- ![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=blue) ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellowgreen) ![.NET-Core](https://img.shields.io/static/v1?label=&message=.NET-Core&color=brightgreen) ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=9cf) ![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=red) ![Koa](https://img.shields.io/static/v1?label=&message=Koa&color=Koa) ![Express](https://img.shields.io/static/v1?label=&message=Express&color=green) ![GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=blueviolet) ![Apollo-Server](https://img.shields.io/static/v1?label=&message=Apollo-Server&color=ff69b4), ![Elixir](https://img.shields.io/static/v1?label=&message=Elixir&color=blueviolet), ![Python](https://img.shields.io/static/v1?label=&message=Python&color=yellow) **as Backend Developer**
 - ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellowgreen) ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue) ![AngularJs](https://img.shields.io/static/v1?label=&message=JUnit-4&color=AngularJs) ![Bulma](https://img.shields.io/static/v1?label=&message=AngularJs&color=9cf) ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=green) ![SASS](https://img.shields.io/static/v1?label=&message=SASS&color=ff69b4) **as Frontend Developer**
 - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue) ![MySQL/MariaDB](https://img.shields.io/static/v1?label=&message=MySQL/MariaDB&color=9cf) ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=ff69b4)
  ![Firestore](https://img.shields.io/static/v1?label=&message=Firestore&color=brightgreen)   **whenever Databases were the matter**
