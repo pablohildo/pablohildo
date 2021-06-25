@@ -4,7 +4,7 @@
 
 🎓 I study Computer Science @ UFBA
 
-⏹️ I'm currently working as Elixir/Python backend developer @ [Solfácil](https://landing.solfacil.com.br/) and as Back-end Instructor @ [Cubos Academy](https://cubos.academy)
+⏹️ I'm currently working as Fullstack developer @ [Heliax](https://heliax.dev/)
 
 🔎 I'm too curious about too many things and love teaching (that also means I love dinosaurs, math, and history in general)
 
